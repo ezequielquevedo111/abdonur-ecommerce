@@ -4,10 +4,11 @@
 
 * {
   font-family: "Excon", sans-serif;
+  scroll-behavior: smooth;
 }
 
 body {
-  --sb-track-color: #ffffff;
+  --sb-track-color: #f0f0f0;
   --sb-thumb-color: #fb8122;
   --sb-size: 10px;
 
